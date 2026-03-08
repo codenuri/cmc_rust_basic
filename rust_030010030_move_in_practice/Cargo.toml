@@ -1,0 +1,6 @@
+[package]
+name = "rust_030010030_move_in_practice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
