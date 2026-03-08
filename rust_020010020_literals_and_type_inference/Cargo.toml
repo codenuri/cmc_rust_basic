@@ -1,0 +1,6 @@
+[package]
+name = "rust_020010020_literals_and_type_inference"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

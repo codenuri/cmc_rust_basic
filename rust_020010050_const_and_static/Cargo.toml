@@ -1,0 +1,6 @@
+[package]
+name = "rust_020010050_const_and_static"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

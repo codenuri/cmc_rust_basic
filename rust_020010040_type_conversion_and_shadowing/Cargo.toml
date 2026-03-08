@@ -1,0 +1,6 @@
+[package]
+name = "rust_020010040_type_conversion_and_shadowing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

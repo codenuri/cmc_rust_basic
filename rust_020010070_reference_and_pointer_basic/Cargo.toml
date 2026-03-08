@@ -1,0 +1,6 @@
+[package]
+name = "rust_020010070_reference_and_pointer_basic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
