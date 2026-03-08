@@ -1,0 +1,6 @@
+[package]
+name = "rust_020020050_error_handling_with_match_if_let"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

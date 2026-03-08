@@ -1,0 +1,14 @@
+fn main()
+{
+	let n = 5;	
+
+	if n < 0 {
+		println!("{n} is negative");		
+	}
+	else if n > 0 {
+		println!("{n} is positive");
+	}
+	else {
+		println!("{n} is zero")
+	}	
+}
