@@ -1,0 +1,6 @@
+[package]
+name = "rust_040010020_struct_associated_function"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
