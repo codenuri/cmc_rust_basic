@@ -1,0 +1,6 @@
+[package]
+name = "rust_050010040_dispatch_model"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

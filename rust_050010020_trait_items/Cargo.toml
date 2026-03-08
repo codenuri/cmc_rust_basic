@@ -1,0 +1,6 @@
+[package]
+name = "rust_050010020_trait_items"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
